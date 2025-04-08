@@ -1,5 +1,16 @@
-# Vue 3 + TypeScript + Vite
+# qingwa-vue3
+青蛙后台管理系统
+## 项目介绍
+这是一款基于Vue3的青蛙管理系统，目前正在开发中，敬请期待！
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 项目参考
+- [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+- [vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## 展示
+- 1.加载页
+![加载页](/src/assets/imags/README/loading.png)
+- 2.登录页
+![alt text](/src/assets/imags/README/login.png)
+- 3.首页
+![alt text](/src/assets/imags/README/home.png)
